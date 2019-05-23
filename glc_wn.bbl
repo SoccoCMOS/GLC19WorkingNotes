@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+
+\bibitem{botella2018deep}
+{\sc Botella, C., Joly, A., Bonnet, P., Monestiez, P., and Munoz, F.}
+\newblock A deep learning approach to species distribution modelling.
+\newblock In {\em Multimedia Tools and Applications for Environmental \&
+  Biodiversity Informatics}. Springer, 2018, pp.~169--199.
+
+\bibitem{deneu2018location}
+{\sc Deneu, B., Servajean, M., Botella, C., and Joly, A.}
+\newblock Location-based species recommendation using co-occurrences and
+  environment-geolifeclef 2018 challenge.
+\newblock In {\em CLEF 2018\/} (2018).
+
+\bibitem{holt1985population}
+{\sc Holt, R.~D.}
+\newblock Population dynamics in two-patch environments: some anomalous
+  consequences of an optimal habitat distribution.
+\newblock {\em Theoretical population biology 28}, 2 (1985), 181--208.
+
+\bibitem{lecun1995convolutional}
+{\sc LeCun, Y., Bengio, Y., et~al.}
+\newblock Convolutional networks for images, speech, and time series.
+\newblock {\em The handbook of brain theory and neural networks 3361}, 10
+  (1995), 1995.
+
+\bibitem{maas2013rectifier}
+{\sc Maas, A.~L., Hannun, A.~Y., and Ng, A.~Y.}
+\newblock Rectifier nonlinearities improve neural network acoustic models.
+\newblock In {\em Proc. icml\/} (2013), vol.~30, p.~3.
+
+\bibitem{peterson2011ecological}
+{\sc Peterson, A.~T., Sober{\'{o}}n, J., Pearson, R.~G., Anderson, R.~P.,
+  Martinez-Meyer, E., Nakamura, M., and Ara{\'{u}}jo, M.~B.}
+\newblock {\em {Ecological niches and geographic distributions (MPB-49)}},
+  vol.~56.
+\newblock Princeton University Press, 2011.
+
+\bibitem{simonyan2014very}
+{\sc Simonyan, K., and Zisserman, A.}
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556\/} (2014).
+
+\end{thebibliography}
